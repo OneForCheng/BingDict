@@ -12,5 +12,7 @@ BingDict Word [..]
     Word    待翻译单词。
 ```
 
+![image](https://github.com/OneForCheng/BingDict/blob/master/BingDict/BingDict.png)
+
 # Tip
 此程序属于在线调用接口获取翻译结果，所以需要连接网络才能使用。
